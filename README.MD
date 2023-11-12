@@ -21,7 +21,7 @@ Warning: if you want to train the model, make sure you run it on unix environmen
 For python requirements -- requirements.txt <br>
 model -- toxicity_v3.h5 <br>
 shiny app -- app.py <br>
-exploration file -- Exploration.ipynb
+exploration file -- Exploration.ipynb <br>
 dataset -- train.csv
 
 
